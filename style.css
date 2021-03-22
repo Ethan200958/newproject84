@@ -1,0 +1,27 @@
+#bodyId {
+    text-align: center;
+    background-image: url("carracinggif.gif");
+    background-size: cover;
+}
+
+canvas {
+    background-color: white;
+    background-size: cover;
+    border-width: 10px;
+    border-style: ridge;
+    border-color: grey;
+    background-image: url("canvascarracinggif.gif");
+}
+
+h4 {
+    color: lightblue;
+}
+
+h1 {
+    color: white;
+}
+
+span {
+    color: red;
+    font-size: 25px;
+}
